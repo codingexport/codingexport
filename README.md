@@ -1,4 +1,4 @@
-![logo](https://github.com/codingexport/codingexport/blob/main/Green%20and%20Black%20Modern%20Gamer%20YouTube%20Banner.png)
+![logo](https://github.com/codingexport/codingexport/blob/main/Cream%2C%20Green%20and%20Red%20Modern%20English%20Class%20Google%20Classroom%20Header.png)
 <h1 align="center">Hi 👋, I'm Akhilesh Nishad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
