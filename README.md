@@ -1,10 +1,10 @@
 ![logo](https://github.com/codingexport/codingexport/blob/main/Cream%2C%20Green%20and%20Red%20Modern%20English%20Class%20Google%20Classroom%20Header.png)
 <h1 align="center">Hi 👋, I'm Akhilesh Nishad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingexport&label=Profile%20views&color=0e75b6&style=flat" alt="codingexport" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingexport" alt="codingexport" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/akhil02620275" target="blank"><img src="https://img.shields.io/twitter/follow/akhil02620275?logo=twitter&style=for-the-badge" alt="akhil02620275" /></a> </p>
 
@@ -43,6 +43,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingexport&show_icons=true&locale=en&layout=compact" alt="codingexport" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingexport&show_icons=true&locale=en" alt="codingexport" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingexport&" alt="codingexport" /></p>
+
