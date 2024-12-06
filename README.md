@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Express**
 
-- 👨‍💻 All of my projects are available at [https://codingexport.github.io/About-Me-portfolio/](https://codingexport.github.io/About-Me-portfolio/)
+- 👨‍💻 All of my projects are available at [https://codingexport.github.io/About-Me-portfolio/](https://codingexport.github.io/Myportfolio/)
 
 - 📫 How to reach me **webdevloper075@gmail.com**
 
