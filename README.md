@@ -1,6 +1,6 @@
 ![logo](https://github.com/codingexport/codingexport/blob/main/Cream%2C%20Green%20and%20Red%20Modern%20English%20Class%20Google%20Classroom%20Header.png)
 <h1 align="center">Hi 👋, I'm Akhilesh Nishad</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A Full Stack Web Developer And Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingexport&label=Profile%20views&color=0e75b6&style=flat" alt="codingexport" /> </p>
 
