@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://codingexport.github.io/About-Me-portfolio/akhil.html](https://codingexport.github.io/About-Me-portfolio/akhil.html)
 
-- ⚡ Web_Dev [](https://codingexport.github.io/About-Me-portfolio/)
+- ⚡ Web_Dev [https://codingexport.github.io/About-Me-portfolio/](https://codingexport.github.io/About-Me-portfolio/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
