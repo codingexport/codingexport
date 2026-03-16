@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Express**
 
-- 👨‍💻 All of my projects are available at [https://codingexport.github.io/portfolio-main/](https://codingexport.github.io/portfolio-main/)
+- 👨‍💻 All of my projects are available at [https://codingexport.github.io/portfolio-main/](https://portfolio-main-five-weld.vercel.app/)
 
 - 📫 How to reach me **webdevloper075@gmail.com**
 
