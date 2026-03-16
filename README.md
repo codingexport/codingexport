@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Express**
 
-- 👨‍💻 All of my projects are available at [https://codingexport.github.io/portfolio-main/](https://portfolio-main-five-weld.vercel.app/)
+- 👨‍💻Data Analyst All of my projects are available at [https://codingexport.github.io/portfolio-main/](https://portfolio-main-five-weld.vercel.app/)
 
 - 📫 How to reach me **webdevloper075@gmail.com**
 
 - 📄 Know about my experiences [https://codingexport.github.io/About-Me-portfolio/akhil.html](https://codingexport.github.io/About-Me-portfolio/akhil.html)
 
-- ⚡ Fun fact **I think you are .....!**
+- ⚡ Web_Dev [](https://codingexport.github.io/About-Me-portfolio/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
