@@ -1,3 +1,5 @@
+<img width="1044" height="281" alt="image" src="https://github.com/user-attachments/assets/658b2739-fa26-4947-8673-5b066e1b1c06" />
+
 <h1 align="center">Hi 👋, I'm Akhilesh Nishad</h1>
 <h3 align="center">A Full Stack Web Developer And Data Analyst from India</h3>
 
